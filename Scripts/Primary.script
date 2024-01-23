@@ -1,0 +1,4 @@
+﻿set global myName to "Kelly"
+run Nickname
+put global myName
+put global myNickname

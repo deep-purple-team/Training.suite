@@ -1,0 +1,4 @@
+﻿2024-01-23 15:57:35.507 -0500	START		Running BloodPressure.script
+2024-01-23 15:57:35.691 -0500	Log		The patient's blood pressure is fine.	19	on_bloodpressure	BloodPressure.script
+2024-01-23 15:57:35.823 -0500	EndTestCase		(Duration:"0.308", Errors:"0", Exceptions:"0", StartTime:"2024-01-23 15:57:35 -0500", Successes:"1", TestCase:"BloodPressure.script", Warnings:"0")
+2024-01-23 15:57:35.922 -0500	SUCCESS		Execution Time 0:00:00 BloodPressure.script

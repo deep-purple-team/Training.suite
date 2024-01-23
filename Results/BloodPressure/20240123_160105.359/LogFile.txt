@@ -1,0 +1,6 @@
+﻿2024-01-23 16:01:05.369 -0500	START		Running BloodPressure.script
+2024-01-23 16:01:12.515 -0500	Log		This patient has high blood pressure	12	on_bloodpressure	BloodPressure.script
+2024-01-23 16:01:12.543 -0500	imagefound	HistoryIcon	found at (269, 598)	13	on_bloodpressure	BloodPressure.script
+2024-01-23 16:01:12.549 -0500	LogSuccess		The alert fired	14	on_bloodpressure	BloodPressure.script
+2024-01-23 16:01:12.583 -0500	EndTestCase		(Duration:"7.208", Errors:"0", Exceptions:"0", StartTime:"2024-01-23 16:01:05 -0500", Successes:"1", TestCase:"BloodPressure.script", Warnings:"0")
+2024-01-23 16:01:12.697 -0500	SUCCESS		Execution Time 0:00:07 BloodPressure.script

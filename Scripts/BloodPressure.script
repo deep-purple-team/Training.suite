@@ -1,0 +1,26 @@
+﻿Ask "What is the patient's blood pressure?" with "120/80" title "Blood pressure" message "Type the blood pressure in normal format"
+Put IT split by slash into myBloodPressure
+Put item 1 of myBloodPressure into varSystolic
+Put item 2 of myBloodPressure into varDiastolic
+--- Don't type above this line
+(*Put 120 into varSystolic
+Put 80 into varDiastolic*)
+
+
+If varSystolic > 130 then
+	Log "This patient has high blood pressure"
+	If ImageFound(imageName:"HistoryIcon", waitFor:1) then
+		LogSuccess "The alert fired"
+	Else
+		LogWarning "The alert didn't fire."
+	End If
+Else If varDiastolic > 80 then
+	Log "This patient has high blood pressure"
+	If ImageFound(imageName:"HistoryIcon", waitFor:1) then
+		LogSuccess "The alert fired"
+	Else
+		LogWarning "The alert didn't fire."
+	End If
+Else
+	Log "The patient's blood pressure is fine."
+End If

@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running TutorialSUT_script.script",
+				"identifier": "START",
+				"timestamp": "2024-01-23 14:54:38.756 -0500"
+			},
+		{
+				"handlerName": "on_tutorialsut_script",
+				"timestamp": "2024-01-23 14:54:39.529 -0500",
+				"scriptName": "TutorialSUT_script.script",
+				"message": "at (52, 629)",
+				"image": "(TEXT:\"Contacts\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_tutorialsut_script",
+				"timestamp": "2024-01-23 14:54:44.688 -0500",
+				"scriptName": "TutorialSUT_script.script",
+				"message": "at (269, 598)",
+				"image": "HistoryIcon",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_tutorialsut_script",
+				"timestamp": "2024-01-23 14:54:46.968 -0500",
+				"scriptName": "TutorialSUT_script.script",
+				"message": "at (159, 630)",
+				"image": "(TEXT:\"Favorites\")",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"8.215\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-01-23 14:54:38 -0500\", Successes:\"1\", TestCase:\"TutorialSUT_script.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-01-23 14:54:46.984 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:08 TutorialSUT_script.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-01-23 14:54:47.043 -0500"
+			}
+	],
+	"createdTimestamp": "2024-01-23 14:54:38.767 -0500"
+}

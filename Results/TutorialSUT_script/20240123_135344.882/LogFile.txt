@@ -1,0 +1,6 @@
+﻿2024-01-23 13:53:44.894 -0500	START		Running TutorialSUT_script.script
+2024-01-23 13:53:45.433 -0500	click	(TEXT:"Contacts")	at (52, 629)	1	on_tutorialsut_script	TutorialSUT_script.script
+2024-01-23 13:53:47.621 -0500	click	HistoryIcon	at (269, 598)	3	on_tutorialsut_script	TutorialSUT_script.script
+2024-01-23 13:53:49.896 -0500	click	(TEXT:"Favorites")	at (159, 630)	4	on_tutorialsut_script	TutorialSUT_script.script
+2024-01-23 13:53:49.912 -0500	EndTestCase		(Duration:"5.009", Errors:"0", Exceptions:"0", StartTime:"2024-01-23 13:53:44 -0500", Successes:"1", TestCase:"TutorialSUT_script.script", Warnings:"0")
+2024-01-23 13:53:49.965 -0500	SUCCESS		Execution Time 0:00:05 TutorialSUT_script.script

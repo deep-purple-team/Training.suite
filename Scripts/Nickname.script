@@ -1,0 +1,11 @@
+﻿global myName, MyNickname
+
+If myName equals ...
+	... "David" :
+		set myNickname to "Dave"
+	... "Jennifer" :
+		set myNickname to "Jenny"
+	... Else
+		set myNickname to myName
+End if
+

@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running BloodPressure.script",
+				"identifier": "START",
+				"timestamp": "2024-01-23 15:54:54.605 -0500"
+			},
+		{
+				"handlerName": "on_bloodpressure",
+				"timestamp": "2024-01-23 15:54:54.740 -0500",
+				"message": "This patient has high blood pressure",
+				"scriptName": "BloodPressure.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_bloodpressure",
+				"timestamp": "2024-01-23 15:54:54.815 -0500",
+				"scriptName": "BloodPressure.script",
+				"message": "found at (269, 598)",
+				"image": "HistoryIcon",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_bloodpressure",
+				"timestamp": "2024-01-23 15:54:54.819 -0500",
+				"message": "The alert fired",
+				"scriptName": "BloodPressure.script",
+				"handlerLine": 4,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"0.257\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-01-23 15:54:54 -0500\", Successes:\"1\", TestCase:\"BloodPressure.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-01-23 15:54:54.870 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:00 BloodPressure.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-01-23 15:54:54.962 -0500"
+			}
+	],
+	"createdTimestamp": "2024-01-23 15:54:54.611 -0500"
+}

@@ -1,0 +1,38 @@
+{
+	"entries": [
+		{
+				"message": "Running TutorialSUT_script.script",
+				"identifier": "START",
+				"timestamp": "2024-01-23 13:41:08.055 -0500"
+			},
+		{
+				"handlerName": "on_tutorialsut_script",
+				"timestamp": "2024-01-23 13:41:15.874 -0500",
+				"scriptName": "TutorialSUT_script.script",
+				"message": "at (159, 630)",
+				"image": "(TEXT:\"Favorites\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_tutorialsut_script",
+				"timestamp": "2024-01-23 13:41:18.060 -0500",
+				"scriptName": "TutorialSUT_script.script",
+				"message": "at (269, 598)",
+				"image": "HistoryIcon",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"10.015\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-01-23 13:41:08 -0500\", Successes:\"1\", TestCase:\"TutorialSUT_script.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-01-23 13:41:18.076 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:10 TutorialSUT_script.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-01-23 13:41:18.126 -0500"
+			}
+	],
+	"createdTimestamp": "2024-01-23 13:41:08.059 -0500"
+}

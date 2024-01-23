@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="BloodPressure">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-01-23 15:54:02 -0500</FirstRun>
+  <LastRun>2024-01-23 16:08:22 -0500</LastRun>
+  <TotalTimeOnSuccess>172.772000</TotalTimeOnSuccess>
+ </script>
+ <script name="TutorialSUT_script">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-01-23 13:38:27 -0500</FirstRun>
+  <LastRun>2024-01-23 14:54:38 -0500</LastRun>
+  <TotalTimeOnSuccess>89.216000</TotalTimeOnSuccess>
+ </script>
+ <script name="Primary">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-01-23 14:19:54 -0500</FirstRun>
+  <LastRun>2024-01-23 14:47:29 -0500</LastRun>
+  <TotalTimeOnSuccess>43.661000</TotalTimeOnSuccess>
+ </script>
+</statistics>

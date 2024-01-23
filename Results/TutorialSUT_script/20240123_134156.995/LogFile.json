@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running TutorialSUT_script.script",
+				"identifier": "START",
+				"timestamp": "2024-01-23 13:41:57.002 -0500"
+			},
+		{
+				"handlerName": "on_tutorialsut_script",
+				"timestamp": "2024-01-23 13:48:50.939 -0500",
+				"scriptName": "TutorialSUT_script.script",
+				"message": "No Image Found On Screen: \"HistoryIcon\"",
+				"image": "HistoryIcon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"414.046\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-01-23 13:41:57 -0500\", Successes:\"0\", TestCase:\"TutorialSUT_script.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-01-23 13:48:51.053 -0500"
+			},
+		{
+				"message": "Execution Time 0:06:54 TutorialSUT_script.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-01-23 13:48:51.066 -0500"
+			}
+	],
+	"createdTimestamp": "2024-01-23 13:41:57.005 -0500"
+}

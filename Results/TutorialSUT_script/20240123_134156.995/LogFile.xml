@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="TutorialSUT_script_script" package="Training.suite" timestamp="2024-01-23 13:41:56.995 -0500"
+ tests="1"  failures="0" errors="0" time="414.056000">
+  <properties>
+   <property name="RunDate" value="2024-01-23 13:41:56.995 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="TutorialSUT_script.script" assertions="1" status="error"  time="414.046">
+    <error type="Exception" message="No Image Found On Screen: &quot;HistoryIcon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running BloodPressure.script",
+				"identifier": "START",
+				"timestamp": "2024-01-23 15:59:47.444 -0500"
+			},
+		{
+				"handlerName": "on_bloodpressure",
+				"timestamp": "2024-01-23 15:59:52.963 -0500",
+				"message": "The patient's blood pressure is fine.",
+				"scriptName": "BloodPressure.script",
+				"handlerLine": 24,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"5.538\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-01-23 15:59:47 -0500\", Successes:\"1\", TestCase:\"BloodPressure.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-01-23 15:59:52.991 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:05 BloodPressure.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-01-23 15:59:53.085 -0500"
+			}
+	],
+	"createdTimestamp": "2024-01-23 15:59:47.451 -0500"
+}

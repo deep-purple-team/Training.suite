@@ -1,0 +1,4 @@
+﻿2024-01-23 13:41:57.002 -0500	START		Running TutorialSUT_script.script
+2024-01-23 13:48:50.939 -0500	Exception	HistoryIcon	No Image Found On Screen: "HistoryIcon"	1	on_tutorialsut_script	TutorialSUT_script.script
+2024-01-23 13:48:51.053 -0500	EndTestCase		(Duration:"414.046", Errors:"1", Exceptions:"1", StartTime:"2024-01-23 13:41:57 -0500", Successes:"0", TestCase:"TutorialSUT_script.script", Warnings:"0")
+2024-01-23 13:48:51.066 -0500	ABORTED		Execution Time 0:06:54 TutorialSUT_script.script

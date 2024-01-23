@@ -1,0 +1,5 @@
+﻿Click text:"Contacts", waitFor:100
+Wait 5
+Click (Image:"HistoryIcon", WaitFor:100)
+Click text:"Favorites", waitFor:100
+

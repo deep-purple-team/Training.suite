@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Primary.script",
+				"identifier": "START",
+				"timestamp": "2024-01-23 14:41:55.635 -0500"
+			},
+		{
+				"message": "(Duration:\"42.695\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-01-23 14:41:55 -0500\", Successes:\"1\", TestCase:\"Primary.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-01-23 14:42:38.335 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:42 Primary.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-01-23 14:42:38.401 -0500"
+			}
+	],
+	"createdTimestamp": "2024-01-23 14:41:55.639 -0500"
+}
